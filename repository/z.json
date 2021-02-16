@@ -296,6 +296,17 @@
 			]
 		},
 		{
+			"name": "ZX BASIC Syntax",
+			"details": "https://github.com/patters-syno/zx-basic-syntax",
+			"labels": ["language syntax", "ZX BASIC", "boriel"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Zxx",
 			"details": "https://github.com/ZxxLang/ZxxSublime",
 			"labels": ["zxx"],
